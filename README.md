@@ -1,1 +1,0 @@
-# docker-php5.6-nginx-Mysql
